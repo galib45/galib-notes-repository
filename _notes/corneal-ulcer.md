@@ -43,3 +43,25 @@ Intact corneal epithelium cannot be penetrated by any organism except, *Neisseri
 5. Chronic dacryocystitis or blepharitis
 6. Use of topical steroids
 7. **Lowering of general body resistance**, e.g. malnutrition, diabetes, systemic immuno-suppressive therapy, etc.
+
+### Stages
+Uncomplicated, localized corneal ulcer has 4 stages — stages of infiltration,
+progression, regression and cicatrization.
+
+![](../../assets/img/Pasted image 20210605162642.png)
+
+### Clinical features
+**Symptoms**
+- Acute pain, redness and lacrimation
+- Photophobia
+- Decreased visual acuity
+- White spot on the cornea.
+
+**Signs**
+- Marked blepharospasm
+- Lid edema
+- Ciliary congestion of the conjunctiva
+- Ulcer usually starts as a grayish-white, circumscribed infiltration, with edema of the surrounding tissue. There is absence of window reflex. The margins of the ulcer are overhanging, and the floor is covered by necrotic material. The extent of the ulcer may be detected by fluorescein staining and seen with blue filter. Ulcer area stains as brilliant green. Later, the ulcer becomes gradually smooth in the regressive stage, and ultimately, scar tissue begins to appear the edges and the floor of the ulcer.
+- Some degree of features of iritis.
+- Hypopyon may be present (Fig. 13.8).
+- Intraocular pressure (IOP) may be raised in presence of hypopyon. But if the ulcer perforates, IOP decreases.
