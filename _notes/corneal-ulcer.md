@@ -80,6 +80,15 @@ Digestion of necrotic tissue → defect becomes larger → line of demarcation a
 	- Invading mononuclear cells
 	- Keratocytes and
 	- Endothelial cells of the new vessels.
+- *Corneal facets* → scar tissue may not fill the gap exactly as level of surface, which is then little flattened
+- *Corneal opacity*
+	- the new fibers are not arranged regularly
+	- damage to the Bowman’s membrane
+- If the corneal scar is thin, the resulting opacity is slight, it is called *nebular*. 
+- If rather more dense—it is called *macular*.
+- if still more dense and white—it is called *leucomatous*.
+
+![](/assets/img/Pasted%20image%2020210605182832.png)
 
 ### Clinical features
 **Symptoms**
@@ -89,15 +98,45 @@ Digestion of necrotic tissue → defect becomes larger → line of demarcation a
 - White spot on the cornea.
 
 **Signs**
-- Characteristics of the ulcer
+1. Characteristics of the ulcer
 	- Starts as a *grayish-white, circumscribed infiltration*, with edema of the surrounding tissue
 	- Margins → overhanging
 	- Floor → covered by necrotic material
 	- Later, the ulcer becomes gradually smooth in the regressive stage, and ultimately, scar tissue begins to appear the edges and the floor of the ulcer.
-- Marked blepharospasm
-- Lid edema
-- Ciliary congestion of the conjunctiva
-- Absence of window reflex. 
-- Some degree of features of iritis.
-- Hypopyon may be present.
-- Intraocular pressure (IOP) may be raised in presence of hypopyon. But if the ulcer perforates, IOP decreases.
+2. Marked blepharospasm
+3. Lid edema
+4. Ciliary congestion of the conjunctiva
+5. Absence of window reflex. 
+6. Some degree of features of iritis.
+7. Hypopyon may be present.
+8. Intraocular pressure (IOP) may be raised in presence of hypopyon. But if the ulcer perforates, IOP decreases.
+
+
+### Complications
+**Before perforation**
+1. Ectatic cicatrix - bulging of thin, scarred cornea.
+2. Anterior uveitis
+3. Secondary glaucoma
+4. Descemetocele - herniation of the Descemet’s membrane through the ulcer as a *transparent vesicle*.
+5. Iridocyclitis
+6. Endophthalmitis
+
+![](/assets/img/Pasted%20image%2020210605183641.png)
+
+**After perforation**
+1. Corneal scaring
+2. Anterior synechia
+3. Adherent leukoma
+4. Iris prolapse
+5. Anterior staphyloma: large perforation → total prolapse of the iris → scar formation → whole thing bulges out
+7. Complicated cataract
+8. Panophthalmitis
+9. Phthisis bulbi: large perforation → extrusion of the contents of the eyeball → shrinkage of the globe & reduction of IOP
+10.  Subluxation or dislocation of the lens
+11.  Corneal fistula (due to repeated perforations)
+
+![](/assets/img/Pasted%20image%2020210605184511.png)
+
+![](/assets/img/Pasted%20image%2020210605184649.png)
+
+![](/assets/img/Pasted%20image%2020210605184921.png)
