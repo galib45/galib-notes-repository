@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/corneal-ulcer.md",
+            "file": "_notes/infective-corneal-ulcer.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/corneal-ulcer.md",
+                "file": "_notes/infective-corneal-ulcer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,10 +86,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_notes/infective-corneal-ulcer.md",
     "_notes/corneal-ulcer.md",
+    "_notes/Infective Corneal Ulcer.md",
+    "_notes/Untitled.md",
     "assets/img/Pasted image 20210605182734.png",
     "_notes/welcome-to-jekyll.md",
-    "assets/img/Pasted image 20210605161612.png",
-    "_notes/Untitled.md"
+    "assets/img/Pasted image 20210605161612.png"
   ]
 }
