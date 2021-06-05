@@ -11,9 +11,34 @@ Corneal ulcer is an *inflammatory* or *infective* condition of cornea involving 
 ### Superficial keratitis
 - **Infective**
 	- Bacterial
+		- Gram positive
+			- *Staphylococcus aureus*
+			- *Streptococcus pyogenes*
+			- *Streptococcus pneumoniae*
+			- *Corynebacterium diphtheriae*
+		- Gram negative
+			- *Pseudomonas aeruginosa*
+			- *Neisseria gonorrheae*
+			- *Neisseria meningitidis*
+			- *Haemophilus influenzae*
+			- *Escherichia coli*
+			- *Proteus*
+			- *Klebsiella*
+			- *Chlamydia trachomatis*
 	- Fungal
+		- Filamentous fungi
+			- *Aspergillus fumigatus*
+			- *Fusarium solani*
+			- *Cephalosporium*
+		- Yeasts
+			- *Candida*
+			- *Cryptococcus*
 	- Viral
+		- Herpes simplex (HSV)
+		- Herpes zoster (VZV)
+		- Adenovirus
 	- Protozoal
+		- *Acanthamoeba*
 - **Non-infective**
 	- Central
 		- Exposure keratitis
@@ -104,12 +129,11 @@ Digestion of necrotic tissue → defect becomes larger → line of demarcation a
 	- Floor → covered by necrotic material
 	- Later, the ulcer becomes gradually smooth in the regressive stage, and ultimately, scar tissue begins to appear the edges and the floor of the ulcer.
 2. Marked blepharospasm
-3. Lid edema
-4. Ciliary congestion of the conjunctiva
-5. Absence of window reflex. 
-6. Some degree of features of iritis.
-7. Hypopyon may be present.
-8. Intraocular pressure (IOP) may be raised in presence of hypopyon. But if the ulcer perforates, IOP decreases.
+3. Chemosis & Lid edema
+4. Ciliary congestion
+5. Some degree of features of iritis.
+6. Hypopyon may be present.
+7. Intraocular pressure (IOP) may be raised in presence of hypopyon. But if the ulcer perforates, IOP decreases.
 
 
 ### Complications
@@ -140,3 +164,39 @@ Digestion of necrotic tissue → defect becomes larger → line of demarcation a
 ![](/assets/img/Pasted%20image%2020210605184649.png)
 
 ![](/assets/img/Pasted%20image%2020210605184921.png)
+
+## Fungal Keratitis
+
+### Predisposing factors
+Same as bacterial keratitis
+
+### Clinical features
+
+**Symptoms**
+
+Same as for the bacterial ulcer, but the symptoms are less prominent than an equal-size bacterial ulcer.
+
+**Signs**
+- Dry looking, yellowish-white lesion with indistinct margin.
+- Filamentous fungus keratitis has delicate, feathery, finger-like projection into the adjacent stroma. ![](/assets/img/Pasted%20image%2020210605201647.png)
+- It may be surrounded by grayish-halo and mutiple satellite lesions. Sometimes, it may be ring-shaped. ![](/assets/img/Pasted%20image%2020210605202020.png)
+- Candida keratitis → typically appears as collar-button abscess without any feathery edge. ![](/assets/img/Pasted%20image%2020210605202153.png)
+- The overlying epithelium is elevated and may be intact.
+- Some degree of iridocyclitis and *massive dense hypopyon* are common. This hypopyon is *immobile* with upper convex border. 
+
+## Investigations
+Sample - corneal scraping
+1. Wet film preparation with 10% KOH → fungal hyphae
+2. Gram stain → Gram positive and Gram negative bacteria, *Candida*
+3. 4. Acid-fast stain → *Mycobacterium*
+5. Calcofluor white stain → *Acanthamoeba*
+6. Giemsa stain
+7. Culture and sensitivity
+	- Blood agar → most bacteria
+	- Chocolate agar → *Haemophilus*, *Neisseria*, *Moraxella*
+	- Lowenstein Jensen → *Mycobacterium*
+	- SDA → fungi
+8. Corneal biopsy → in complex cases
+9. Confocal microscopy → for localizing and identifying the presence of filamentary fungal elements in the corneal stroma
+
+## Treatment
