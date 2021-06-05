@@ -31,3 +31,15 @@ Corneal ulcer is an *inflammatory* or *infective* condition of cornea involving 
 - Interstitial keratitis
 - Disciform keratitis
 - Sclerosing keratitis
+
+## Bacterial Keratitis
+Intact corneal epithelium cannot be penetrated by any organism except, *Neisseria gonorrheae*, *Neisseria meningitidis*, *Haemophilus influenzae* and *Corynebacterium diphtheriae*. With the other bacteria, keratitis is invariably associated with one or more of the following predisposing factors. 
+
+### Predisposing factors
+1. **Trauma to the corneal epithelium**: By injury, foreign body, trichiasis, entropion, contact lens wear, etc.
+2. **Underlying corneal diseases**: Herpetic keratitis, corneal erosions, bullous keratopathy, keratomalacia, etc.
+3. Neurotrophic or exposure keratopathy
+4. Dry eyes
+5. Chronic dacryocystitis or blepharitis
+6. Use of topical steroids
+7. **Lowering of general body resistance**, e.g. malnutrition, diabetes, systemic immuno-suppressive therapy, etc.
