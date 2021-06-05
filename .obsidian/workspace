@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "3fdcb3d157502574",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f749deee09cb7b5",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/corneal-ulcer.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c367187c38f76d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "00909930e519ba3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b726d32c80fafe9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d59f79f852476c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225
+  },
+  "right": {
+    "id": "8daed595d832a29f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9aedd7d7a7c46c0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a3dbb80825a3ead",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/corneal-ulcer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "_notes/corneal-ulcer.md",
+    "_notes/welcome-to-jekyll.md",
+    "_notes/Untitled.md"
+  ]
+}
