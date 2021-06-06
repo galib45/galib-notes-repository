@@ -20,9 +20,10 @@ Intact corneal epithelium cannot be penetrated by any organism except, *Neisseri
 2. The ulcer is grayish yellow
 3. Ciliary congestion
 4. Chemosis (swelling of the conjunctiva) & eyelid swelling
-5. Some degree of features of iritis.
-6. Hypopyon may be present.
-7. Intraocular pressure (IOP) may be raised in presence of hypopyon. But if the ulcer perforates, IOP decreases.
+5. Severe ulceration may lead to descemetocoele formation and perforation, particularly in Pseudomonas infection
+6. Some degree of features of iritis.
+7. Hypopyon may be present.
+8. Intraocular pressure (IOP) may be raised in presence of hypopyon. But if the ulcer perforates, IOP decreases.
 
 
 ### Complications
@@ -61,12 +62,31 @@ Intact corneal epithelium cannot be penetrated by any organism except, *Neisseri
 - Watery or mucopurulent discharge
 
 **Signs**
-- Dry looking, yellowish-white lesion with indistinct margin.
-- Filamentous fungus keratitis has delicate, feathery, finger-like projection into the adjacent stroma. ![](/assets/img/Pasted%20image%2020210605201647.png)
-- It may be surrounded by grayish-halo and mutiple satellite lesions. Sometimes, it may be ring-shaped. ![](/assets/img/Pasted%20image%2020210605202020.png)
-- Candida keratitis → typically appears as collar-button abscess without any feathery edge. ![](/assets/img/Pasted%20image%2020210605202153.png)
-- The overlying epithelium is elevated and may be intact.
-- Some degree of iridocyclitis and *massive dense hypopyon* are common. This hypopyon is *immobile* with upper convex border. 
+- Ciliary congestion
+- The ulcer is usually small, cheesy, dry with indistinct margin.
+- Infiltrate
+	- Candida keratitis 
+		- Yellow–white densely suppurative infiltrate
+	- Filamentous keratitis
+		- Grey or yellow–white stromal infiltrate with indistinct fluffy margins
+		- Progressive infiltration, often with satellite lesions 
+		
+		![](/assets/img/Pasted%20image%2020210606114413.png)
+		
+		- Feathery branch-like extensions or a ring-shaped infiltrate may develop
+		
+		![](/assets/img/Pasted%20image%2020210605202020.png)
+		
+		- Rapid progression with necrosis and thinning can occur.
+		- Penetration of an intact Descemet membrane may occur and lead to *endophthalmitis* without evident perforation.
+- Epithelial defect → not always present, sometimes small when present
+- Other features
+	- anterior uveitis
+	- hypopyon (massive, dense & immovabele)
+	- endothelial plaque
+	- raised IOP
+	- scleritis
+	- sterile or infective endophthalmitis.
 
 ## Bacterial vs Fungal
 

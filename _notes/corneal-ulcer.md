@@ -16,7 +16,7 @@ Corneal ulcer is an *inflammatory* or *infective* condition of cornea involving 
 		- *Streptococcus pneumoniae*
 		- *Corynebacterium diphtheriae*
 	- Gram negative
-		- *Pseudomonas aeruginosa*
+		- *Pseudomonas aeruginosa* (responsible for over 60% of contact lens related keratitis)
 		- *Neisseria gonorrheae*
 		- *Neisseria meningitidis*
 		- *Haemophilus influenzae*
