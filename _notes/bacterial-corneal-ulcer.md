@@ -119,15 +119,15 @@ Therapeutic keratoplasty
 ### Fortified antibiotics
 **Cephalosporin** (Cefazoline, Cefuroxime, Ceftazidime)
 
-Preparation|Concentration|Shelf life
----|---|---
-500mg parenteral antibiotic is diluted with 2.5ml sterile water and added to 7.5ml of preservative free artificial tear|50mg/ml (5%)|24 hours at room temperature, at least 4 days if refrigerated
+Preparation|500mg parenteral antibiotic is diluted with 2.5ml sterile water and added to 7.5ml of preservative free artificial tear
+Concentration|50mg/ml (5%)
+Shelf life |24 hours at room temperature, at least 4 days if refrigerated
 
 **Aminoglycoside** (Gentamicin)
 
-Preparation|Concentration|Shelf life
----|---|---
-2ml parenteral antibiotics (40mg/ml) is added to 5ml commercially available gentamicin ophthalmic solution (0.3%)|15mg/ml (1.5%)|upto 14 days if refrigerated
+Preparation|2ml parenteral antibiotics (40mg/ml) is added to 5ml commercially available gentamicin ophthalmic solution (0.3%)
+Concentration|15mg/ml (1.5%)
+Shelf life|upto 14 days if refrigerated
 
 #### Disadvantages of fortified antibiotics
 - High cost
