@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Infective Corneal Ulcer"
+title:  "Bacterial Corneal Ulcer"
 date:   2021-06-06
 categories: ophthalmology
 ---
 
-## Bacterial Corneal Ulcer
 Intact corneal epithelium cannot be penetrated by any organism except, *Neisseria gonorrheae*, *Neisseria meningitidis*, *Haemophilus influenzae* and *Corynebacterium diphtheriae*. With the other bacteria, keratitis is invariably associated with one or more of the following predisposing factors. 
 
 ### Clinical features
@@ -90,10 +89,17 @@ Intact corneal epithelium cannot be penetrated by any organism except, *Neisseri
 		- Fluroquinolones → Ciprofloxacin, Ofloxacin, Moxifloxacin, Gatifloxacin, Gemifloxacin
 	- Duotherapy
 		- Combination of 2 fortified antibiotics (a cephalosporin + an aminoglycoside)
+- Subconjunctival antibiotics
+	- Only indicated if there is poor compliance with topical treatment.
 - Mydriatics
 	- Cyclopentolate 1%, Homatropine 2%, Atropine 1%
 	- ciliary muscle paralysis → prevent spasm → reduce pain
 	- prevent formation of posterior synechia
+- Steroids
+	- reduce host infmammation, improve comfort and minimize corneal scarring
+	- promote replication of some microorganisms, particularly fungi, herpes simplex and mycobacteria
+	- contraindicated if a fungal or mycobacterial agent is suspected
+
 
 #### Systemic antibiotics
 - Potential for systemic involvement
@@ -102,6 +108,8 @@ Intact corneal epithelium cannot be penetrated by any organism except, *Neisseri
 	- *H. influenzae* → Oral Amoxicillin & Clavulanic acid
 - Resistant to conventional topical antibiotics
 - Severe corneal thinning (with threatened or actual perforation)
+	- Ciprofloxacin for its antibacterial activity.
+	- A tetracycline (e.g. doxycycline 100 mg twice daily) for its anticollagenase effect.
 - Scleral involvement
 - Suspected endophthalmitis
 
@@ -109,127 +117,21 @@ Intact corneal epithelium cannot be penetrated by any organism except, *Neisseri
 Therapeutic keratoplasty
 
 ### Fortified antibiotics
-- **Cephalosporin**
-				- Ceftaroline, Cefuroxime, Ceftazidime
-				- 500mg parenteral antibiotic is diluted with 2.5ml sterile water and added to 7.5ml of preservative free artificial tear
-				- Concentration → 50mg/ml (5%)
-				- Shelf life → 24 hours at room temperature, at least 4 days if refrigerated
-			- **Aminoglycoside**
-				- Gentamicin
-				- 2ml parenteral antibiotics (40mg/ml) is added to 5ml commercially available gentamicin ophthalmic solution (0.3%)
-				- Concentration → 15mg/ml (1.5%)
-				- Shelf life → upto 14 days if refrigerated
+**Cephalosporin** (Cefazoline, Cefuroxime, Ceftazidime)
 
-## Fungal Corneal Ulcer
-
-### Clinical features
-
-**Symptoms**
-- Gradual onset of pain, grittiness, photophobia, blurred vision
-- Watery or mucopurulent discharge
-
-**Signs**
-- Ciliary congestion
-- The ulcer is usually small, cheesy, dry with indistinct margin.
-- Infiltrate
-	- Candida keratitis 
-		- Yellow–white densely suppurative infiltrate
-	- Filamentous keratitis
-		- Grey or yellow–white stromal infiltrate with indistinct fluffy margins
-		- Progressive infiltration, often with satellite lesions 
-		
-		![](/assets/img/Pasted%20image%2020210606114413.png)
-		
-		- Feathery branch-like extensions or a ring-shaped infiltrate may develop
-		
-		![](/assets/img/Pasted%20image%2020210605202020.png)
-		
-		- Rapid progression with necrosis and thinning can occur.
-		- Penetration of an intact Descemet membrane may occur and lead to *endophthalmitis* without evident perforation.
-- Epithelial defect → not always present, sometimes small when present
-- Other features
-	- anterior uveitis
-	- hypopyon (massive, dense & immovabele)
-	- endothelial plaque
-	- raised IOP
-	- scleritis
-	- sterile or infective endophthalmitis.
-
-### Investigations
-#### Sample
-Corneal scraping (from the base of the ulcer)
-
-#### Staining
-- Wet film preparation with potassium hydroxide (KOH) with direct microscopic evaluation.
-- Gram and Giemsa staining.
-- Other stains include periodic acid–Schiff, calcofmuor white and methenamine silver.
-
-#### Culture
-In SDA media & blood agar media
-
-#### PCR analysis
-- rapid and highly sensitive (up to 90%)
-- may be the current investigation of choice
-
-#### Corneal biopsy
-- In suspected fungal keratitis 
-- In the absence of clinical improvement after 3–4 days and 
-- If no growth develops from scrapings after a week
-
-#### Others
-- Anterior chamber tap
-- Confocal microscopy
-
-### Treatment
-#### General measures
- - Hospital admission
-- Discontinuation of contact lens wear
-- Dark glass
-
-#### Removal of epithelium over the lesion 
-This enhances the penetration of antifungal agents. Regular removal of mucus & necrotic tissue with a spatula is also helpful.
-
-#### Topical therapy
-- Initially given hourly for 48 hours, then reduced
-- At least for 12 weeks because most anti-fungal are fungistatic.
-
-Organism|Drug of choice|Alternatives
+Preparation|Concentration|Shelf life
 ---|---|---
-Candida|amphotericin B 0.15% or econazole 1%|natamycin 5%, fluconazole 2%, clotrimazole 1% and voriconazole 1 or 2%
-Filamentous fungi|natamycin 5% or econazole 1%|amphotericin B 0.15%, miconazole 1% and voriconazole 1 or 2%
+500mg parenteral antibiotic is diluted with 2.5ml sterile water and added to 7.5ml of preservative free artificial tear|50mg/ml (5%)|24 hours at room temperature, at least 4 days if refrigerated
 
-- A broad spectrum antibiotic → to prevent bacterial co-infection.
-- Cycloplegics → to relieve pain.
+**Aminoglycoside** (Gentamicin)
 
-#### Sub-conjunctival Fluconazole
-May be used in severe cases.
-
-#### Systemic antifungals 
-- In severe cases.
-- When lesions are near the limbus.
-- When resistance to topical antifungals.
-- Scleral involvement.
-- Suspected endophthalmitis.
-- Options → Voriconazole, Itraconazole, Fluconazole
-
-#### Tetracycline (e.g. doxycycline 100 mg twice daily) 
-May be given for its anticollagenase effect when there is significant thinning.
-
-#### Surgery
-- Superficial Keratectomy
-- Therapeutic Keratoplasty (when medical therapy is ineffective or following perforation).
-
-## Bacterial vs Fungal
-
-Traits|Bacterial|Fungal
+Preparation|Concentration|Shelf life
 ---|---|---
-Onset|rapid|gradual
-Symptoms|more|less
-Ulcer margin|clean-cut|irregular
-Satellite lesion|absent|present
-Infiltrate|single & enlarging|multiple feathary/finger-like projections or ring infiltrate
-Hypopyon|thinner, watery, movable, margin flat|thicker, dense, immovable, margin concave
-Discharge|purulent or mucopurulent|watery or mucopurulent
+2ml parenteral antibiotics (40mg/ml) is added to 5ml commercially available gentamicin ophthalmic solution (0.3%)|15mg/ml (1.5%)|upto 14 days if refrigerated
 
-
-## Investigations
+#### Disadvantages of fortified antibiotics
+- High cost
+- Limited availability
+- Contamination risk
+- Short shelf life
+- Need refigeration

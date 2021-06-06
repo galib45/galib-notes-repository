@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Corneal Ulcer"
+title:  "Corneal Ulcer (General Discussion)"
 date:   2021-06-05
 categories: ophthalmology
 ---
@@ -8,8 +8,8 @@ categories: ophthalmology
 Corneal ulcer is an *inflammatory* or *infective* condition of cornea involving **disruption of its epithelial layer** with involvement of corneal stroma. Inflammation of the cornea is called **keratitis**. Keratitis and corneal ulcer is not always synonymous. 
 
 ## Types
-### [Infective](infective-corneal-ulcer)
-- Bacterial
+### Infective
+- [Bacterial Corneal Ulcer](bacterial-corneal-ulcer)
 	- Gram positive
 		- *Staphylococcus aureus*
 		- *Streptococcus pyogenes*
@@ -24,7 +24,7 @@ Corneal ulcer is an *inflammatory* or *infective* condition of cornea involving 
 		- *Proteus*
 		- *Klebsiella*
 		- *Chlamydia trachomatis*
-- Fungal
+- [Fungal Corneal Ulcer](fungal-corneal-ulcer)
 	- Filamentous fungi
 		- *Aspergillus fumigatus*
 		- *Fusarium solani*
