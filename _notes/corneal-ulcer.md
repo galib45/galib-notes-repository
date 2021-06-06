@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Corneal Ulcer (General Discussion)"
+title:  "Corneal Ulcer - General Discussion"
 date:   2021-06-05
 categories: ophthalmology
 ---
